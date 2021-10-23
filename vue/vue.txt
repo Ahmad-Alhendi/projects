@@ -1,0 +1,10 @@
+1-install vue cli
+npm i -g @vue/cli
+2-create project ( from terminal)
+vue craete my-app
+3-bulid project and served it at local host
+cd my-app
+npm run serve
+******************
+create project (from ui)
+vue ui

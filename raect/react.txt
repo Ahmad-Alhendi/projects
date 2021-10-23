@@ -1,0 +1,11 @@
+1- navigate into directory we want to creat project
+2-create react app install
+npm install -g create-react-app
+3- create a new project with create-react-app
+npx create-react-app first-app
+4- navigate into directory of our project
+cd first-app
+5-open vs code
+code . 
+6-new terminal 
+npm run start

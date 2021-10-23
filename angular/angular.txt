@@ -1,0 +1,11 @@
+1-Install the Angular CLI
+npm install -g @angular/cli
+
+2-Create a workspace and initial application
+ng new my-app
+
+3-Run the application run the server in the browser
+ng serve --open
+
+4- to restart server after close cdn
+we write in the terminal: npm start
